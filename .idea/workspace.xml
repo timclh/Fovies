@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d6445324-2094-4dbb-a892-edb9a90da092" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="ProjectId" id="1maeUc48KfKuOJPRRUWhPwH1hsD" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d6445324-2094-4dbb-a892-edb9a90da092" name="Default Changelist" comment="" />
+      <created>1609736147198</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609736147198</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1512" y="362" key="#Inspections" timestamp="1609738749451">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1512" y="362" key="#Inspections/0.0.2560.1400@0.0.2560.1400" timestamp="1609738749451" />
+    <state x="1374" y="355" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1609737328419">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1374" y="355" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1609737328419" />
+    <state x="1775" y="465" key="AndroidProcessChooserDialog" timestamp="1609737804687">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1775" y="465" key="AndroidProcessChooserDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1609737804687" />
+    <state x="1372" y="100" width="1094" height="1200" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1609738451294">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1372" y="100" width="1094" height="1200" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1609738451294" />
+    <state x="1603" y="524" key="com.intellij.ide.util.TipDialog" timestamp="1609738872084">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1603" y="524" key="com.intellij.ide.util.TipDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1609738872084" />
+    <state x="1532" y="250" width="773" height="900" key="find.popup" timestamp="1609753168814">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1532" y="250" width="773" height="900" key="find.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1609753168814" />
+    <state x="1577" y="333" key="run.anything.popup" timestamp="1609736805979">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1577" y="333" key="run.anything.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1609736805979" />
+    <state x="1512" y="358" key="scopes" timestamp="1609737679467">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1512" y="358" key="scopes/0.0.2560.1400@0.0.2560.1400" timestamp="1609737679467" />
+  </component>
+</project>
